@@ -1,8 +1,8 @@
-# Project Progress: mood:e
+# 👩🏽‍💻 Progress Log 
 
 Tracking the daily development and features added to **mood:e**.
 
-## Day 1: Project Setup
+## ✅ Day 1️⃣ : Project Setup
 - Initialized a Flask project and created basic routing.
 - Set up Git and connected to GitHub.
 - Integrated Spotify API with OAuth for user login.
