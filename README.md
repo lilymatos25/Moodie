@@ -16,13 +16,13 @@ A day-by-day roadmap to bring **mood:e** to life! 🌱 Each day builds on the la
 
 | **Day**       | **Goals**                                                                                           | **Status**       |
 |---------------|-----------------------------------------------------------------------------------------------------|------------------|
-| **🌱 Day 1**  | Project setup: Flask, GitHub repo, Spotify API integration, OAuth setup, basic mood input form.     | ✅ Completed!    |
-| **🎨 Day 2**  | Add HTML form for mood input, create route to process mood, and plan mood-based recommendations.     | 🔄 In Progress   |
-| **🎵 Day 3**  | Spotify playlist recommendations and task suggestions based on mood, test OAuth flow.               | ❌ Not Started   |
-| **🤖 Day 4**  | AI-driven mood analysis, personalized task suggestions, smart recommendations.                      | ❌ Not Started   |
-| **💻 Day 5**  | Design user dashboard to display mood history, playlists, and tasks; add mood trends tracking.      | ❌ Not Started   |
-| **🚀 Day 6**  | Final testing, polish UI, fix bugs, add documentation for features, and ensure smooth experience.    | ❌ Not Started   |
-| **🎉 Day 7**  | Deploy app on Heroku or Netlify, create demo, celebrate and share **mood:e** with the world! 🌎✨    | ❌ Not Started   |
+| **🌱  Day 1**  | Project setup: Flask, GitHub repo, Spotify API integration, OAuth setup, basic mood input form.     | ✅ Completed!    |
+| **🎨  Day 2**  | Add HTML form for mood input, create route to process mood, and plan mood-based recommendations.     | 🔄 In Progress   |
+| **🎵  Day 3**  | Spotify playlist recommendations and task suggestions based on mood, test OAuth flow.               | ❌ Not Started   |
+| **🤖  Day 4**  | AI-driven mood analysis, personalized task suggestions, smart recommendations.                      | ❌ Not Started   |
+| **💻  Day 5**  | Design user dashboard to display mood history, playlists, and tasks; add mood trends tracking.      | ❌ Not Started   |
+| **🚀  Day 6**  | Final testing, polish UI, fix bugs, add documentation for features, and ensure smooth experience.    | ❌ Not Started   |
+| **🎉  Day 7**  | Deploy app on Heroku or Netlify, create demo, celebrate and share **mood:e** with the world! 🌎✨    | ❌ Not Started   |
 
 ---
 
