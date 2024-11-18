@@ -1,4 +1,3 @@
-<!-- templates/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,11 +5,26 @@
     <title>Moodie</title>
 </head>
 <body>
-    <h1>What's Your Mood?</h1>
+    <h1>Welcome to Moodie! 🌟</h1>
+
+    <!-- Mood Input Form -->
+    <h2>What's Your Mood?</h2>
     <form action="/mood" method="POST">
-        <label for="mood">Enter Your Mood:</label>
-        <input type="text" id="mood" name="mood">
-        <button type="submit">Submit</button>
+        <label for="mood">Enter Your Mood:</label><br>
+        <input type="text" id="mood" name="mood" placeholder="e.g., Happy, Stressed, Motivated"><br><br>
+        <button type="submit">Submit Mood</button>
+    </form>
+
+    <!-- Goal Collection Form -->
+    <h2>Set Your Goals 🎯</h2>
+    <form action="/goals" method="POST">
+        <label for="goal">What’s your goal?</label><br>
+        <input type="text" id="goal" name="goal" placeholder="e.g., Learn Python"><br><br>
+
+        <label for="deadline">When do you want to achieve it by?</label><br>
+        <input type="date" id="deadline" name="deadline"><br><br>
+
+        <button type="submit">Save Goal</button>
     </form>
 </body>
 </html>
