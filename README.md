@@ -6,7 +6,7 @@
 
 ## 🌈 Why I’m Building This  
 
-There are so many personal projects out there, but most of them feel like things I wouldn’t use. So, I decided to make something I *would* use—something pretty, creative, and practical.  
+There are so many personal projects out there, but most of them feel like things I wouldn’t use. So, I decided to make something I *would* use; something pretty, creative, and practical.  
 
 With **mood:e**, I’m also challenging myself to:  
 - Practice writing clean, structured documentation. ✍️  
