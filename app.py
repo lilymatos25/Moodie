@@ -7,8 +7,8 @@ app = Flask(__name__)
 app.secret_key = os.urandom(24)
 
 # Spotify API credentials
-SPOTIPY_CLIENT_ID = "5468d04e052d4d42b1cd08ee14956b4f"
-SPOTIPY_CLIENT_SECRET = "dfcd68cab9384a93a213afb2a50ba972"
+SPOTIPY_CLIENT_ID = " "
+SPOTIPY_CLIENT_SECRET = " "
 SPOTIPY_REDIRECT_URI = "http://127.0.0.1:5000/callback"
 
 # Configure Spotify OAuth
